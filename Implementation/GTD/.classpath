@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-openjdk-amd64"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HADOOP_COMMON"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HADOOP_HDFS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HADOOP_LIB"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HADOOP_MAPREDUCE"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HADOOP_YARN"/>
+	<classpathentry kind="lib" path="/home/jahnvi/Downloads/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="/home/jahnvi/Downloads/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
